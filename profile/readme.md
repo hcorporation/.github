@@ -6,5 +6,3 @@
     <a href="https://www.reddit.com/h_corp">H Corp.</a>
   </h3>
 </div>
-<br/>
-Hello H sentient. This is H Corp., creators of <a href="https://github.com/hcorporation/h-bot10000">h-bot10000</a> and hCoins (coming soon)
