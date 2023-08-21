@@ -3,6 +3,6 @@
 </div>
 <div align="center">
   <h3>
-    <a href="https://www.reddit.com/h_corp">H Corp.</a>
+    <a href="https://www.reddit.com/u/h_corp">H Corp.</a>
   </h3>
 </div>
