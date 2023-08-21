@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="../assets/h.png" />
+  <img src="https://raw.githubusercontent.com/hcorporation/.github/main/assets/h.png" />
 </div>
