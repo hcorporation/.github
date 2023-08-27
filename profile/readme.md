@@ -5,4 +5,9 @@
   <h3>
     <a href="https://www.reddit.com/u/h_corp">H Corp.</a>
   </h3>
+  <h6>
+    <span>
+      psst, looking for <a href="https://github.com/hindows-os/">hindows?</a>
+    </span>
+  </h6>
 </div>
