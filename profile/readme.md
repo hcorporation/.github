@@ -7,7 +7,7 @@
   </h3>
   <h6>
     <span>
-      psst, looking for <a href="https://github.com/hindows-os/">hindows?</a>
+      psst, looking for <a href="https://github.com/hindowsos/">hindows?</a>
     </span>
   </h6>
 </div>
